@@ -222,6 +222,7 @@ nav {
 .hero-ctas {
     display: flex;
     gap: 1rem;
+    flex-wrap: wrap;
 }
 
 .btn {
